@@ -10,3 +10,12 @@ Key Questions
 ● Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts.
 
 ● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
+
+Data Citation: 											
+“The Instacart Online Grocery Shopping Dataset 2017”, 											
+Accessed from www.instacart.com/datasets/grocery-shopping-2017											
+via Kaggle on July 26, 2023											
+This data was fabricated and used for the purposes of CareerFoundry Data Analytics coursework. 											
+											![image](https://github.com/bdigreg/Instacart-Grocery-Basket-Analysis/assets/142696760/9233af7a-547c-47b7-bd6e-90cbee2f6d6f)
+
+
